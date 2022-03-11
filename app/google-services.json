@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189857292248",
+    "project_id": "chatapplication-debaf",
+    "storage_bucket": "chatapplication-debaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189857292248:android:fd8e4b50883264a0f35cad",
+        "android_client_info": {
+          "package_name": "com.jaradomkar.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189857292248-p0rc0rcc6p78fl4mmlq3gonta2q9m54s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm5w21fEz8anG8afd2ubGiLtqireeQYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189857292248-p0rc0rcc6p78fl4mmlq3gonta2q9m54s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
